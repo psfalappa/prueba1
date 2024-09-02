@@ -1,2 +1,4 @@
+<?php
 echo "pruba git";
-echo "---------"; 
+echo "---------"; //comentario
+
